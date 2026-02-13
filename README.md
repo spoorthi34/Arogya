@@ -102,9 +102,3 @@ git clone https://github.com/your-username/Arogya-Setu-Solapur.git
 
 
 Navigate to the project folder
-
-cd Arogya-Setu-Solapur
-
-
-Open index.html in your browser
-or run using a local server.
