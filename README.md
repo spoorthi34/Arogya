@@ -90,15 +90,7 @@ Secure patient data handling
 
 Privacy-first architecture
 
-📸 Screenshots
 
-(Add screenshots of your homepage, login page, dashboard, etc.)
-
-⚙️ Installation & Setup
-
-Clone the repository
-
-git clone https://github.com/your-username/Arogya-Setu-Solapur.git
 
 
 Navigate to the project folder
