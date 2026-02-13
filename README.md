@@ -108,16 +108,3 @@ cd Arogya-Setu-Solapur
 
 Open index.html in your browser
 or run using a local server.
-
-🌍 Future Enhancements
-
-Integration with government health databases
-
-Video consultation feature
-
-Emergency ambulance tracking
-
-Mobile application version
-
-Multi-language support
-
