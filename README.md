@@ -81,16 +81,3 @@ Arogya-Setu-Solapur/
 ├── js/
 ├── assets/
 └── README.md
-
-🔒 Security & Privacy
-
-Encrypted user authentication
-
-Secure patient data handling
-
-Privacy-first architecture
-
-
-
-
-Navigate to the project folder
