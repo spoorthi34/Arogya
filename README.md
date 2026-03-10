@@ -3,6 +3,7 @@
 Arogya Setu – Solapur is a smart healthcare assistance platform designed to connect patients, doctors, and hospitals in Solapur through a unified digital system.
 The platform aims to simplify appointment booking, health monitoring, and digital healthcare management.
 
+
 🚀 Project Overview
 
 Arogya Setu – Solapur provides a centralized healthcare solution that enables:
